@@ -16,6 +16,6 @@
 安装`python2.7`
 
 `pip`第三方库:
-```python
-from bs4 import BeautifulSoup
+```shell
+pip install BeautifulSoup4
 ```
